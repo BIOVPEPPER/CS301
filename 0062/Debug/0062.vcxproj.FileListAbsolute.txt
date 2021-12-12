@@ -1,0 +1,2 @@
+F:\CS301\0062\Debug\0062.exe
+F:\CS301\0062\Debug\0062.pdb
